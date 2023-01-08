@@ -26,15 +26,15 @@
     },
     "API_ID": {
       "description": "get this value from my.telegram.org",
-      "value": ""
+      "value": "18986903"
     },
     "API_HASH": {
       "description": "get this value from my.telegram.org",
-      "value": ""
+      "value": "7457a2dd85fa14088d0bc7291143b617"
     },
     "MONGO_URI": {
       "description": "this is needed for database account, get from mongodb.com",
-      "value": "",
+      "value": "mongodb+srv://cluster0.sdxhyrl.mongodb.net/myFirstDatabase",
       "required": true
     },
     "PYROGRAM_SESSION": {
@@ -49,15 +49,15 @@
     },
     "LOG_CHAT": {
       "description": "make a public/private group, generate the id and fill in here,",
-      "value": ""
+      "value": "-1001824363070"
     },
     "HEROKU_APP_NAME": {
       "description": "enter the app name you fill in top first.",
-      "value": ""
+      "value": "r17-robot"
     },
     "HEROKU_API": {
       "description": "enter your heroku api key, find at https://dashboard.heroku.com/account",
-      "value": ""
+      "value": "a9c7e4ef-010e-4c9c-a44c-97058504292e"
     }
   },
   "buildpacks": [
